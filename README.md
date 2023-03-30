@@ -2,7 +2,7 @@
 
 ---------------------------------------------
 
-![stem](/Users/santi/Bootcamp/Salarios en STEM/img/STEM.jpg)
+![stem](https://github.com/SantiRiccardi/STEM-Salary-Prediction/blob/main/img/STEM.jpg)
 
 
 ## **Introducción**
