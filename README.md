@@ -1,9 +1,9 @@
 # Predicción de Salarios en STEM en EE.UU
 
 ---------------------------------------------
-<p align="center">
-    !(/Users/santi/Bootcamp/Salarios en STEM/img/STEM.jpg)
-</p>
+
+![stem](/Users/santi/Bootcamp/Salarios en STEM/img/STEM.jpg)
+
 
 ## **Introducción**
 **¿Qué son las carreras STEM?** <br>
